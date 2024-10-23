@@ -229,8 +229,8 @@ makes:31
 wonderful:31
 who:32
 there:32
-there	can:8
 there	be:8
+there	can:8
 there	are:10
 play:33
 really:33
@@ -242,8 +242,8 @@ again:36
 thanks:36
 how:37
 they:37
-they	never:11
 they	are:11
+they	never:11
 happy:37
 out:38
 him:39
